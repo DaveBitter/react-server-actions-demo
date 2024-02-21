@@ -1,0 +1,15 @@
+.form,
+.formItem {
+  display: flex;
+  flex-direction: column;
+  align-items: stretch;
+  justify-content: center;
+}
+
+.form {
+  gap: 2rem;
+}
+
+.formItem {
+  gap: 1rem;
+}
